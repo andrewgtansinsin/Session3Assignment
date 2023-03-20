@@ -1,13 +1,13 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using DemoLearning3.Helpers;
-using DemoLearning3.Resources;
-using DemoLearning3.DataModels;
+using Session3Assignment.Helpers;
+using Session3Assignment.Resources;
+using Session3Assignment.DataModels;
 using RestSharp;
 using System.Net;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace DemoLearning3.Tests
+namespace Session3Assignment.Tests
 {
     [TestClass]
     public class Demo3Tests : ApiBaseTest

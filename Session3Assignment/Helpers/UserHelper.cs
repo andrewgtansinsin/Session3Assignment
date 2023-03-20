@@ -1,11 +1,11 @@
 ﻿using RestSharp;
-using DemoLearning3.DataModels;
-using DemoLearning3.Resources;
-using DemoLearning3.Tests.TestData;
+using Session3Assignment.DataModels;
+using Session3Assignment.Resources;
+using Session3Assignment.Tests.TestData;
 using System.Threading.Tasks;
 using System.Collections.Generic;
 
-namespace DemoLearning3.Helpers
+namespace Session3Assignment.Helpers
 {
     /// <summary>
     /// Demo class containing all methods for users

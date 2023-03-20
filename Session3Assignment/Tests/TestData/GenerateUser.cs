@@ -1,7 +1,7 @@
-﻿using DemoLearning3.DataModels;
+﻿using Session3Assignment.DataModels;
 using System;
 
-namespace DemoLearning3.Tests.TestData
+namespace Session3Assignment.Tests.TestData
 {
     public class GenerateUser
     {

@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace DemoLearning3.DataModels
+namespace Session3Assignment.DataModels
 {
     /// <summary>
     /// User JSON Model

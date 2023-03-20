@@ -1,8 +1,8 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using RestSharp;
-using DemoLearning3.DataModels;
+using Session3Assignment.DataModels;
 
-namespace DemoLearning3.Tests
+namespace Session3Assignment.Tests
 {
     public class ApiBaseTest
     {

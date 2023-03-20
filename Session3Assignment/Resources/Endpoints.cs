@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DemoLearning3.Resources
+namespace Session3Assignment.Resources
 {
     /// <summary>
     /// Class containing all endpoints used in API tests
