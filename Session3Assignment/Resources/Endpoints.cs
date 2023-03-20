@@ -12,10 +12,10 @@ namespace Session3Assignment.Resources
         //Base URL
         public const string baseURL = "https://petstore.swagger.io/v2";
 
-        public static string GetUserByUsername(string username) => $"{baseURL}/user/{username}";
+        public static string GetPetByPetId(long petid) => $"{baseURL}/pet/{petid}";
 
-        public static string PostUser() => $"{baseURL}/user";
+        public static string PostPet() => $"{baseURL}/pet";
 
-        public static string DeleteUserByUsername(string username) => $"{baseURL}/user/{username}";
+        public static string DeletePetByPetId(long petid) => $"{baseURL}/pet/{petid}";
     }
 }

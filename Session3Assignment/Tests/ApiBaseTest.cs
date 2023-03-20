@@ -8,7 +8,7 @@ namespace Session3Assignment.Tests
     {
         public RestClient RestClient { get; set; }
 
-        public UserJsonModel UserDetails { get; set; }
+        public PetJsonModel PetDetails { get; set; }
 
         [TestInitialize]
         public void Initilize()
